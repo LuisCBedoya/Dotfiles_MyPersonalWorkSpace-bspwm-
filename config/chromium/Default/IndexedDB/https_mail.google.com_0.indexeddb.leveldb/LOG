@@ -1,0 +1,6 @@
+2022/04/21-12:18:27.401 3d61 Reusing MANIFEST /home/luc/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/21-12:18:27.402 3d61 Recovering log #4
+2022/04/21-12:18:27.411 3d61 Reusing old log /home/luc/.config/chromium/Default/IndexedDB/https_mail.google.com_0.indexeddb.leveldb/000004.log 
+2022/04/21-12:18:41.205 3d60 Level-0 table #8: started
+2022/04/21-12:18:41.276 3d60 Level-0 table #8: 1852356 bytes OK
+2022/04/21-12:18:41.338 3d60 Delete type=0 #4

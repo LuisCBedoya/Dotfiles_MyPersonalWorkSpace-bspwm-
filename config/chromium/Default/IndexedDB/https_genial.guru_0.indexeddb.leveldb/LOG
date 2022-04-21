@@ -1,0 +1,6 @@
+2022/04/21-10:33:05.072 3d6 Creating DB /home/luc/.config/chromium/Default/IndexedDB/https_genial.guru_0.indexeddb.leveldb since it was missing.
+2022/04/21-10:33:05.169 3d6 Reusing MANIFEST /home/luc/.config/chromium/Default/IndexedDB/https_genial.guru_0.indexeddb.leveldb/MANIFEST-000001
+2022/04/21-10:33:19.171 5d Level-0 table #5: started
+2022/04/21-10:33:19.193 5d Level-0 table #5: 1034 bytes OK
+2022/04/21-10:33:19.227 5d Delete type=0 #3
+2022/04/21-10:33:19.227 5d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
