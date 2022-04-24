@@ -1,4 +1,4 @@
-# Dotfiles Version final (Entorno de trabajo personalizado **Completo**)
+# Dotfiles Version final (Entorno de trabajo personalizado**Completo**)
 
 ## Screenshots
 
