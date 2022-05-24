@@ -1,4 +1,4 @@
-# MyPersonalWorkSpace (Tiling window manager BSPWM)
+# My Personal WorkSpace (Tiling window manager BSPWM)
 
 ## Screenshots
 
